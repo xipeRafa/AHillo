@@ -11,7 +11,7 @@ export const NavComp = () => {
     <nav className="container navbar navbar-light ">
       <div className="container d-flex flex-column">
         <div className="navbar-brand mb-4">
-          <img src={logoImg} alt="logo" height="220" />
+          <img src={logoImg} alt="logo" height="160" />
         </div>
         <div className="d-flex">
           <div className="col mb-4">
